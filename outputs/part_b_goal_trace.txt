@@ -1,0 +1,127 @@
+{'condition': 'slippery=False/random', 'slippery': False, 'policy': 'random', 'batch_seed': 22, 'episode_seed': 22006, 'steps': 17, 'total_reward': 1.0, 'outcome': 'goal'}
+reset(seed=22006), state=0
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=1 action=3 state=0 reward=0 terminated=False truncated=False
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=2 action=0 state=0 reward=0 terminated=False truncated=False
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=3 action=0 state=0 reward=0 terminated=False truncated=False
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=4 action=3 state=0 reward=0 terminated=False truncated=False
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=5 action=0 state=0 reward=0 terminated=False truncated=False
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=6 action=1 state=4 reward=0 terminated=False truncated=False
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+step=7 action=0 state=4 reward=0 terminated=False truncated=False
+  (Left)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+step=8 action=3 state=0 reward=0 terminated=False truncated=False
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=9 action=0 state=0 reward=0 terminated=False truncated=False
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=10 action=3 state=0 reward=0 terminated=False truncated=False
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=11 action=2 state=1 reward=0 terminated=False truncated=False
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+step=12 action=2 state=2 reward=0 terminated=False truncated=False
+  (Right)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+step=13 action=1 state=6 reward=0 terminated=False truncated=False
+  (Down)
+SFFF
+FH[41mF[0mH
+FFFH
+HFFG
+
+step=14 action=1 state=10 reward=0 terminated=False truncated=False
+  (Down)
+SFFF
+FHFH
+FF[41mF[0mH
+HFFG
+
+step=15 action=1 state=14 reward=0 terminated=False truncated=False
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+step=16 action=1 state=14 reward=0 terminated=False truncated=False
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+step=17 action=2 state=15 reward=1 terminated=True truncated=False
+  (Right)
+SFFF
+FHFH
+FFFH
+HFF[41mG[0m
+

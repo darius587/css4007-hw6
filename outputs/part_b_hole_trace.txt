@@ -1,0 +1,50 @@
+{'condition': 'slippery=False/random', 'slippery': False, 'policy': 'random', 'batch_seed': 11, 'episode_seed': 11000, 'steps': 6, 'total_reward': 0.0, 'outcome': 'hole'}
+reset(seed=11000), state=0
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=1 action=0 state=0 reward=0 terminated=False truncated=False
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=2 action=3 state=0 reward=0 terminated=False truncated=False
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=3 action=2 state=1 reward=0 terminated=False truncated=False
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+step=4 action=0 state=0 reward=0 terminated=False truncated=False
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+step=5 action=2 state=1 reward=0 terminated=False truncated=False
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+step=6 action=1 state=5 reward=0 terminated=True truncated=False
+  (Down)
+SFFF
+F[41mH[0mFH
+FFFH
+HFFG
+
